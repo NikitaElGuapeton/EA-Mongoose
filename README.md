@@ -1,3 +1,6 @@
+URL video: https://youtu.be/WlyMaxcW_Y4
+
+
 # EA Node.js + TypeScript + Mongoose
 
 ## Requisitos Previos
